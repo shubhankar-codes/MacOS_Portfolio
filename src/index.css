@@ -1,6 +1,8 @@
-@import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=Georama:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+/* Georama (Already correct, but here is a clean version) */
+@import url("https://fonts.googleapis.com/css2?family=Georama:wght@100..900&display=swap");
 
+/* Roboto Mono (Updated to be Variable) */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap");
 @import "tailwindcss";
 
 html,
